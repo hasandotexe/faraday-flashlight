@@ -4,9 +4,6 @@
 
 A shake-powered LED flashlight built entirely on **Faraday's Law of Electromagnetic Induction**, paired with a **Joule Thief voltage booster** to keep the LED bright even as stored energy fades. This was my semester final project, combining electromagnetism, circuit design, and hands-on prototyping into a single working device.
 
-<p align="center">
-  <img src="demo-preview.gif" width="420" alt="Demo: shaking the flashlight to light the LED">
-</p>
 
 <p align="center">
 
