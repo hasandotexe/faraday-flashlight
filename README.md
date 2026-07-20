@@ -5,15 +5,15 @@
 A shake-powered LED flashlight built entirely on **Faraday's Law of Electromagnetic Induction**, paired with a **Joule Thief voltage booster** to keep the LED bright even as stored energy fades. This was my semester final project, combining electromagnetism, circuit design, and hands-on prototyping into a single working device.
 
 <p align="center">
-  <img src="images/demo-preview.gif" width="420" alt="Demo: shaking the flashlight to light the LED">
+  <img src="demo-preview.gif" width="420" alt="Demo: shaking the flashlight to light the LED">
 </p>
 
 <p align="center">
-  <b>🎥 <a href="video/faraday-flashlight-demo.mp4">Watch the full demo video</a></b>
+  <b>🎥 <a href="faraday-flashlight-demo.mp4">Watch the full demo video</a></b>
 </p>
 
 <p align="center">
-  <img src="docs/process-flow.png" width="480" alt="Faraday Flashlight process flow: shake magnet, coil produces AC, rectifier converts to DC, supercapacitor stores energy, Joule Thief boosts voltage, LED lights">
+  <img src="process-flow.png" width="480" alt="Faraday Flashlight process flow: shake magnet, coil produces AC, rectifier converts to DC, supercapacitor stores energy, Joule Thief boosts voltage, LED lights">
 </p>
 
 ---
@@ -90,21 +90,16 @@ No chemical battery is involved anywhere in the design.
 
 ## 📸 Gallery & Demo
 
-- 🎬 **[Full demo video](video/faraday-flashlight-demo.mp4)** — the complete build being shaken and lighting up the LED
+- 🎬 **[Full demo video](faraday-flashlight-demo.mp4)** — the complete build being shaken and lighting up the LED
 - 🖼️ Preview GIF shown at the top of this README
 
 ```
-docs/
-└── process-flow.png             (step-by-step diagram)
-
-images/
-└── demo-preview.gif              (short looping preview)
-
-video/
-└── faraday-flashlight-demo.mp4   (full demo)
+demo-preview.gif                 (short looping preview)
+faraday-flashlight-demo.mp4      (full demo)
+process-flow.png                 (step-by-step diagram)
 ```
 
-*Feel free to add more build photos (breadboard close-ups, final assembly) to the `images/` folder — real photos of the physical build add a lot of credibility alongside the video.*
+*Feel free to add more build photos (breadboard close-ups, final assembly) to the repo — real photos of the physical build add a lot of credibility alongside the video.*
 
 ---
 
