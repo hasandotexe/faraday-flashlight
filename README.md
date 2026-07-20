@@ -9,7 +9,11 @@ A shake-powered LED flashlight built entirely on **Faraday's Law of Electromagne
 </p>
 
 <p align="center">
-  <b>🎥 <a href="faraday-flashlight-demo.mp4">Watch the full demo video</a></b>
+
+
+https://github.com/user-attachments/assets/c5e79680-e6a6-4369-a7a2-38d7127fda21
+
+
 </p>
 
 <p align="center">
