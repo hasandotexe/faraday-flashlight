@@ -45,17 +45,17 @@ No chemical battery is involved anywhere in the design.
 **Mechanical / Magnetic**
 - Neodymium magnets (15 × 2 mm)
 - PVC / transparent tube (~20 mm diameter)
-- Enameled copper magnet wire
+- Enameled copper magnet wire (300g | 0.49mm)
 
 **Power Electronics**
-- Bridge rectifier (4 diodes)
+- Bridge rectifier (NPN 4 diodes)
 - Supercapacitor — 5.5 V, 1.0 F
 
 **Joule Thief Circuit**
 - NPN transistor (BC547 or 2N2222)
 - Bifilar-wound toroid coil
 - 1 kΩ resistor
-- LED
+- LED(~2.3v)
 - Breadboard, jumper wires
 - Push button / switch
 
